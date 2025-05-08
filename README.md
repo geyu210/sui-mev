@@ -1,3 +1,17 @@
+
+Chaofan Shou (svm/acc)
+
+@shoucccc
+
+Open sourcing our Sui arbitrage bot that made $200k+: https://github.com/fuzzland/sui-mev?id=1
+
+The bot can arb between DEX like 
+@CetusProtocol@navi_protocol@AftermathFi@DeepBookonSui@Turbos_finance@KriyaDEX
+. We also built a MoveVM simulator in Rust that can fork the chain and simulate tx faster. 
+
+Due to lack of engineers and competition onchain, it was no longer maintained. Specifically, it lacks a bellman-ford algo implementation to be profitable again. Feel free to do whatever you want with the code.
+
+
 # Sui MEV Bot
 
 
